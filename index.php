@@ -19,7 +19,7 @@ $nombre_visitante = $_COOKIE["nombre_visitante"] ?? "";
 <header class="navbar">
   <div class="nav-inner">
     <a class="brand" href="index.php">
-      <img src="https://i.ibb.co/4wyVHKgC/logo-design-for-a-seafood-restaura nt-cal-XYj-F-a-Cm-Sb-WXLZBTb90f-PQ-DURWMUv7-Qty39u-LFM-rrbg.jpg" alt="Sabores del Mar">
+      <img src="views/Sabores_Del_Mar_Logo.jpeg" alt="Sabores del Mar">
       <span>SABORES DEL MAR</span>
     </a>
     <nav class="nav-links">
